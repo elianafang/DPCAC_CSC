@@ -12,8 +12,6 @@ python main_new39.py --dataset Amazon-Computers --param local:amazon_computers.j
 * Coauthor-CS
 * WikiCS
 
-All datasets will be automatically downloaded via PyTorch Geometric when first run.
-
 ## 🧩 Requirements
 
 - Python 3.8+
